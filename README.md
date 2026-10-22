@@ -4,7 +4,7 @@
 
 </div>
 
-I build Discord bots. My main project is **Miyu**, a music and community bot on discord.js v14 and Lavalink v4.
+I build Discord bots. My main project is **Miyu** (private), a music and community bot on discord.js v14 and Lavalink v4.
 
 ## Miyu
 
@@ -21,8 +21,6 @@ I build Discord bots. My main project is **Miyu**, a music and community bot on 
   <img src="assets/now-playing.png" width="380" alt="Miyu now-playing card" />
   <img src="assets/stats-card.png" width="380" alt="Miyu /stats activity card" />
 </p>
-
-Source: [deadly-7/Miyu](https://github.com/deadly-7/Miyu)
 
 ## Stack
 
