@@ -1,67 +1,83 @@
 <div align="center">
 
-<img src="assets/header.svg" width="760" alt="deadly-7: Discord bots, Node.js, Lavalink" />
-
-<a href="https://github.com/deadly-7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=F48FB1&center=true&vCenter=true&width=560&lines=I+build+Discord+bots;Music+bots+on+Lavalink;Moderation+and+community+tools;Self-hosted+and+running+24%2F7" alt="I build Discord bots" />
-</a>
+<img src="assets/hero.svg" width="100%" alt="DEADLY-7. Ly Rizzler, Discord bot developer. I'm the conqueror of my fate." />
 
 <br />
 
-![GitHub](https://img.shields.io/badge/GitHub-deadly--7-181717?logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![discord.js](https://img.shields.io/badge/discord.js-5865F2?logo=discord&logoColor=white)
-![Lavalink](https://img.shields.io/badge/Lavalink-v4-orange)
-
-<sub>"Im The Conqueror Of My Fate"</sub>
+<img src="https://komarev.com/ghpvc/?username=deadly-7&label=VISITORS&color=eb459e&style=for-the-badge" alt="Profile visitors" />
+<a href="mailto:deadlyisbest160@gmail.com"><img src="https://img.shields.io/badge/MAIL-ME-7c4dff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/BUILDING-DISCORD_BOTS-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Building Discord bots" />
 
 </div>
 
----
+<br />
 
-## About
+<img src="assets/sec-whoami.svg" width="100%" alt="01. Whoami" />
 
-I build Discord bots. My main project is **Miyu** (private), a music and community bot on discord.js v14 and Lavalink v4.
+<img src="assets/terminal.svg" width="100%" alt="Terminal: Ly Rizzler (deadly-7), I build Discord bots. Miyu: a private music and community bot on Node.js 22, discord.js v14, Lavalink v4 and SQLite." />
 
-- **Music:** YouTube, YouTube Music, Spotify and SoundCloud, 11 filter presets, 24/7 mode with sessions restored after a restart
-- **Moderation:** antinuke, raid detection, automod, case history, cross-server ban list
-- **Community:** leveling, tickets, birthdays, economy, giveaways, games
-- **Reliability:** tracks Lavalink node health and moves players to a healthy node when one drops
+<br />
 
-## Tech
+<img src="assets/sec-miyu.svg" width="100%" alt="02. Miyu" />
+
+**Miyu** is my main project: a private music and community bot built on discord.js v14 and Lavalink v4.
+
+<img src="assets/features.svg" width="100%" alt="Miyu features: music, guard, community, failover" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,sqlite,git,linux,bash&perline=7" alt="JavaScript, Node.js, discord.js, SQLite, Git, Linux, Bash" />
+  <img src="assets/now-playing.png" width="49%" alt="Miyu now-playing card" />
+  <img src="assets/stats-card.png" width="49%" alt="Miyu /stats activity card" />
+</p>
+<p align="center"><sub>Cards rendered by Miyu itself</sub></p>
+
+<br />
+
+<img src="assets/sec-onair.svg" width="100%" alt="03. On air" />
+
+<p align="center">
+  <img src="http://201.7.16.105:3002/now-playing.svg" width="100%" alt="Now playing, typed out" />
+  <br />
+  <img src="http://201.7.16.105:3002/now-playing.jpg" width="100%" alt="What Miyu is playing right now" />
+  <br />
+  <sub>Live from my bot: the track Miyu is playing at this moment</sub>
 </p>
 
-## Miyu
+<br />
+
+<img src="assets/sec-arsenal.svg" width="100%" alt="04. Arsenal" />
 
 <p align="center">
-  <img src="assets/now-playing.png" width="380" alt="Miyu now-playing card" />
-  <img src="assets/stats-card.png" width="380" alt="Miyu /stats activity card" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,sqlite,git,linux,bash,vscode&perline=8" alt="JavaScript, Node.js, discord.js, SQLite, Git, Linux, Bash, VS Code" />
 </p>
 
-### Playing right now
+<br />
 
-This is the track my bot is playing at this moment.
+<img src="assets/sec-grid.svg" width="100%" alt="05. The grid" />
 
 <p align="center">
-  <img src="http://201.7.16.105:3002/now-playing.svg" width="620" alt="Now playing, typed out" />
+  <img src="https://raw.githubusercontent.com/deadly-7/deadly-7/output/profile-3d.svg" width="100%" alt="3D contribution graph" />
 </p>
 
-## Contributions
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deadly-7&theme=transparent&hide_border=true&ring=F48FB1&fire=F48FB1&currStreakLabel=B39DDB&sideLabels=B39DDB&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=deadly-7&theme=transparent&hide_border=true&ring=EB459E&fire=FF3B5C&currStreakLabel=B39DDB&sideLabels=B39DDB&currStreakNum=F0EEF6&sideNums=F0EEF6&dates=8A8499&stroke=2A2438" alt="Contribution streak" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deadly-7/deadly-7/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/deadly-7/deadly-7/output/github-snake.svg" alt="Contribution snake" />
+    <img src="https://raw.githubusercontent.com/deadly-7/deadly-7/output/github-snake.svg" width="100%" alt="Contribution snake" />
   </picture>
 </p>
 
-## Contact
+<br />
 
-deadlyisbest160@gmail.com
+<img src="assets/sec-contact.svg" width="100%" alt="06. Contact" />
+
+<p align="center">
+  Talk Discord bots with me:<br />
+  <a href="mailto:deadlyisbest160@gmail.com"><b>deadlyisbest160@gmail.com</b></a>
+</p>
+
+<img src="assets/footer.svg" width="100%" alt="The conqueror of my fate" />
+
+<p align="center"><sub>Every graphic above the live sections is generated by <a href="scripts/build.js">scripts/build.js</a>: hand-written SVG animation, no templates.</sub></p>
